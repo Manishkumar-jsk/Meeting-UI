@@ -1,0 +1,200 @@
+.meetingContainer{
+    margin-top:30px;
+    margin-left:100px;
+    margin-right:100px;
+    border:1px solid #e6e6e6;
+    border-radius:15px;
+}
+
+.meetingWrapper{
+    display: flex;
+    border-bottom:1px solid #e6e6e6;
+    border-radius:15px;
+}
+
+.meetingLeftContainer{
+    flex:6;
+    background-color:#00cc66;
+    border-radius:15px 0px 0px 15px;
+    color:white;
+    padding-top:40px;
+    padding-left:50px;
+    padding-right:20px;
+}
+
+.meetingLeftTop{
+    padding-bottom:25px;
+}
+
+.hl{
+    border: 1px solid white;
+    height:1px;
+}
+
+.vl{
+    border-left: 1px solid white;
+    height:30px;
+    margin-top:40px;
+}
+
+.meetingLeftMiddleItems{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top:30px;
+    margin-bottom:45px;
+}
+
+.Item2Imgs{
+    display: flex;
+}
+
+.Item2Imgs1{
+    margin-right:10px;
+    border:1px solid red;
+    border-radius:20px;
+}
+
+.Item2Imgs2{
+    margin-right:10px;
+    border:1px solid red;
+    border-radius:20px;
+}
+
+.Item2Imgs3{
+    width:40px;
+    background-color:white;
+    color:black;
+    border-radius:20px;
+    position: relative;
+}
+
+.Item2Imgs p{
+    position:absolute;
+    left:5px;
+    top:5px;
+}
+
+.Item3Imgs{
+    display: flex;
+}
+
+.Item3Img1{
+    margin-right:10px;
+    border:1px solid red;
+    border-radius:20px;
+}
+
+.Item3Img2{
+    margin-right:10px;
+    border:1px solid red;
+    border-radius:20px;
+}
+
+.Item3Img3{
+    margin-right:10px;
+    border:1px solid red;
+    border-radius:20px;
+}
+
+.Item3Imgs4{
+    width:40px;
+    background-color:white;
+    color:black;
+    border-radius:20px;
+    position: relative;
+}
+
+.Item3Imgs4 p{
+    position:absolute;
+    left:5px;
+    top:5px;
+}
+
+.meetingLeftBottom{
+    margin-top:45px;
+    margin-bottom:25px;
+}
+
+.meetingRightContainer{
+    flex:6;
+    padding-left:50px;
+    padding-right:50px;
+}
+
+.meetingRightItems{
+    display: flex;
+    margin-top:25px;
+}
+
+.meetingRightItems p{
+    position: relative;
+    top:22px;
+    font-size:1.2rem;
+}
+
+.meetingTask{
+    margin-left:50px;
+}
+
+.meetingRightbtn{
+    border:1px solid #e6e6e6;
+    background-color:white;
+    cursor:pointer;
+    border-radius:15px;
+    padding-left:18px;
+    padding-right:18px;
+    margin-left:45%;
+}
+
+.meetingRightList{
+    margin-left:13px;
+}
+
+.meetingRightMiddle{
+    margin-top:40px;
+}
+
+.meetingRightBottomHeader p{
+    font-size:1.2rem;
+}
+
+.meetingRightMiddleHeader p{
+    font-size:1.2rem;
+}
+
+.download-link{
+    font-size:0.8rem;
+    color:#bfbfbf;
+    margin-left:4px;
+}
+
+.meetingRightBottomButtons{
+    display: flex;
+    align-content: center;
+}
+
+.meetingRightBottomBtn{
+    border:1px solid #e6e6e6;
+    background-color:white;
+    cursor:pointer;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-left:10px;
+    padding-right:10px;
+    margin-right:25px;
+}
+
+.MeetingSchedule{
+    margin-top:30px;
+    margin-bottom:25px;
+    margin-left:20px;
+}
+
+.MeetingScheduleItem{
+    border:1px solid #e6e6e6;
+    cursor: pointer;
+    padding:15px;
+    margin:10px;
+}
+

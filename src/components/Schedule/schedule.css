@@ -1,0 +1,58 @@
+.scheduleContainer{
+    margin-left:100px;
+    margin-right:100px;
+    margin-top:10px;
+    margin-bottom:100px;
+}
+
+.scheduleConhtainerWrapper{
+    display: flex;
+}
+
+.scheduleLeft{
+    flex:3;
+    margin-top:25px;
+}
+
+.scheduleMiddle{
+    flex:6;
+}
+
+.scheduleMiddleText{
+    border:1px solid#d9d9d9;
+    color:#b3b3b3;
+    padding-left:15px;
+    padding-top:10px;   
+}
+
+.scheduleRight{
+    flex:3;
+}
+
+.scheduleBtns{
+    margin-top:10px;
+    margin-left:20px;
+}
+
+.scheduleCloseBtn{
+    border:1px solid #e6e6e6;
+    background:white;
+    padding-left:40px;
+    padding-top:8px;
+    padding-bottom:8px;
+    padding-right:40px;
+}
+
+.scheduleSubmitBtn{
+    border:1px solid #e6e6e6;
+    background:#0099ff;
+    color:white;
+    padding-left:40px;
+    padding-top:8px;
+    padding-bottom:8px;
+    padding-right:40px;
+    margin-left:20px;
+}
+
+
+
